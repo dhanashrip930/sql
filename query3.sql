@@ -1,0 +1,1 @@
+select count (city) from salespeople where city = 'Newyork';
